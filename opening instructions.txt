@@ -1,0 +1,7 @@
+github repo link --> https://github.com/ATIKSH09/TedX
+
+hosted site link --> https://tedx-cyan.vercel.app/
+
+I have not added node_modules folder in this zip so you have to install node in your pc
+
+I have used tailwind css so you also have to install tailwind css 
