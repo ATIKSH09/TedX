@@ -7,7 +7,7 @@ import Realnavbar from "./components/Realnavbar";
 function App() {
   return (
     <>
-      <Realnavbar />
+      <Realnavbar bg="#1F2029" />
       <Card />
     </>
   );
